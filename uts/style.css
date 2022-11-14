@@ -1,0 +1,29 @@
+.banner {
+    background: url(background.jpg);
+    background-size: cover;
+    padding-top: 15%;
+    
+    color: #fff;
+    font-family: 'Cambria';
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h5{
+    padding-top: 1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+}
+
+h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    padding: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
